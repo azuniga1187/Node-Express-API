@@ -1,0 +1,6 @@
+nodu_modules
+Dockerfile
+.dockerignore
+.git
+.gitignore
+docker-compose*
